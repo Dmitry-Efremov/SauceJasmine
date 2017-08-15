@@ -1,0 +1,25 @@
+{
+  "name": "saucelabs-jasmine-example",
+  "description": "Example for using saucelabs with Jasmine",
+  "version": "0.0.1",
+  "homepage": "https://github.com/Dmitry-Efremov/SauceJasmine",
+  "licenses": [ { "type": "MIT" } ],
+
+  "engines": {
+
+    "node": ">=0.6",
+    "npm": ">=1.2.12"
+  },
+
+  "keywords": [
+
+    "saucelabs",
+    "test",
+    "jasmine"
+  ],
+
+  "devDependencies": {
+
+    "express": "*"
+  }
+}
